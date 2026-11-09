@@ -1,0 +1,19 @@
+{
+  "report_type": "material_delivery",
+  "date": "2026-11-09",
+  "site": "Field Site Alpha",
+  "delivery_id": "DEL-2026-1109-001",
+  "supplier": "Acme Materials Co.",
+  "materials": [
+    {
+      "item": "Concrete Mix 4000psi",
+      "quantity": 25.5,
+      "unit": "cubic_yards",
+      "ticket": "TKT-78945",
+      "certification": "ASTM C94 compliant",
+      "received_by": "Foreman J. Smith"
+    }
+  ],
+  "notes": "Inspected on arrival. No damage.",
+  "sealed_at": "2026-11-09T16:00:00Z"
+}
